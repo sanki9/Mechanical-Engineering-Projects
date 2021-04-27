@@ -1,6 +1,6 @@
 # Info
 
-This folder contains some of the parts I have made on Solidworks and Inventor. The images for these parts are shown below in order.
+This folder contains some of the parts I have made on Solidworks. The images for these parts were rendered on Inventor and are shown below.
 
 Practice1
 
